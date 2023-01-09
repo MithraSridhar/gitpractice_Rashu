@@ -32,7 +32,8 @@ public class TestCase1_CW extends ProjectSpecificWrappers {
 		.enterSearchText(searchText)
 		.clickSearchResult(searchText)
 		.getTitle()
-		.clickLogOut();		
+		.clickLogOut();	
+		//first change
 	}
 	
 	
